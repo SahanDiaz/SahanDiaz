@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif"/>
 </div>
 
-
--    👋 Hi, I’m @SahanDiaz
+- 👋 Hi, I’m @SahanDiaz
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Company
@@ -14,7 +13,9 @@
      alt="LinkedIn Badge" />
   </a>
 </div>
+
 <hr>
+
 :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -30,7 +31,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<hr>
 
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SahanDiaz&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/SahanDiaz?tab=repositories)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanDiaz&layout=compact&theme=vision-friendly-dark)](https://github.com/SahanDiaz?tab=repositories)
 
 <!---
 SahanDiaz/SahanDiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
